@@ -17,7 +17,7 @@ This web application is an expansion of the api-v1 repository. It features:
 2. must have access to a mongodb database (locally or cloud)
 3. must have access to an email account with oauth/app or api communication enabled
 
-**installation instructions**
+### installation instructions ###
 1. clone repository
 2. run npm install in the root directory
 3. create a .env file in the root directory
