@@ -31,7 +31,7 @@ This web application is an expansion of the api-v1 repository. It features:
 
 ```
 # running npm install in the root directory...
-C:/Users/Refaat/Desktop/api> npm install
+C:/Users/Cynthia/Desktop/api> npm install
 ```
 ```
 # example with a local mongodb connection
@@ -50,5 +50,5 @@ EMAIL_SENDER_PASSWORD="your app password here"
 2. run node `.\index.js`
 
 ```
-C:/Users/Ether/Desktop/api/src> node .\index.js
+C:/Users/Cynthia/Desktop/api/src> node .\index.js
 ```
